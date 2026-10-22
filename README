@@ -1,0 +1,10 @@
+# DS5020 - Data Science Fundamentals - Sets
+
+This repository contains my submission for the Lecture 8 Set Theory assignment. 
+
+## Contents
+- `Sets.ipynb`: A Jupyter Notebook that uses Python (pandas) to apply set operations (unions, intersections, complements, and partitions) to the Titanic dataset.
+- `titanic-1.csv`: The dataset used for the analysis.
+
+## How to Run
+Open `Sets.ipynb` in Jupyter Notebook or VS Code and run all cells. Make sure `titanic-1.csv` is in the same directory.
